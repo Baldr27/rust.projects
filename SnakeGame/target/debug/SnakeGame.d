@@ -1,0 +1,1 @@
+G:\rust.projects\SnakeGame\target\debug\SnakeGame.exe: G:\rust.projects\SnakeGame\src\draw.rs G:\rust.projects\SnakeGame\src\game.rs G:\rust.projects\SnakeGame\src\main.rs G:\rust.projects\SnakeGame\src\snake.rs

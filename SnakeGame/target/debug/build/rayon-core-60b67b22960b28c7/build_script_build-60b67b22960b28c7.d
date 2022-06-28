@@ -1,0 +1,5 @@
+G:\rust.projects\SnakeGame\target\debug\build\rayon-core-60b67b22960b28c7\build_script_build-60b67b22960b28c7.exe: C:\Users\German\.cargo\registry\src\github.com-1ecc6299db9ec823\rayon-core-1.9.3\build.rs
+
+G:\rust.projects\SnakeGame\target\debug\build\rayon-core-60b67b22960b28c7\build_script_build-60b67b22960b28c7.d: C:\Users\German\.cargo\registry\src\github.com-1ecc6299db9ec823\rayon-core-1.9.3\build.rs
+
+C:\Users\German\.cargo\registry\src\github.com-1ecc6299db9ec823\rayon-core-1.9.3\build.rs:

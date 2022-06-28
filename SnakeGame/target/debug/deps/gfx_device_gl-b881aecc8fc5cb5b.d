@@ -1,0 +1,11 @@
+G:\rust.projects\SnakeGame\target\debug\deps\gfx_device_gl-b881aecc8fc5cb5b.rmeta: C:\Users\German\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.16.2\src\lib.rs C:\Users\German\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.16.2\src\command.rs C:\Users\German\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.16.2\src\factory.rs C:\Users\German\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.16.2\src\info.rs C:\Users\German\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.16.2\src\shade.rs C:\Users\German\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.16.2\src\state.rs C:\Users\German\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.16.2\src\tex.rs
+
+G:\rust.projects\SnakeGame\target\debug\deps\gfx_device_gl-b881aecc8fc5cb5b.d: C:\Users\German\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.16.2\src\lib.rs C:\Users\German\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.16.2\src\command.rs C:\Users\German\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.16.2\src\factory.rs C:\Users\German\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.16.2\src\info.rs C:\Users\German\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.16.2\src\shade.rs C:\Users\German\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.16.2\src\state.rs C:\Users\German\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.16.2\src\tex.rs
+
+C:\Users\German\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.16.2\src\lib.rs:
+C:\Users\German\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.16.2\src\command.rs:
+C:\Users\German\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.16.2\src\factory.rs:
+C:\Users\German\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.16.2\src\info.rs:
+C:\Users\German\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.16.2\src\shade.rs:
+C:\Users\German\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.16.2\src\state.rs:
+C:\Users\German\.cargo\registry\src\github.com-1ecc6299db9ec823\gfx_device_gl-0.16.2\src\tex.rs:
