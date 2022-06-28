@@ -5,6 +5,7 @@ use std::str::FromStr;
 use std::process;
 use std::sync::mpsc::{Sender, channel};
 use std::thread;
+use std::time::Duration;
 
 const MAX: u16 = 65535;
 
