@@ -1,0 +1,13 @@
+/home/colonello/Documents/rust.projects/SnakeGame/target/debug/deps/net2-73ccd827ac5c2a55.rmeta: /home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/lib.rs /home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/tcp.rs /home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/udp.rs /home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/socket.rs /home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/ext.rs /home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/utils.rs /home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/sys/unix/mod.rs /home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/sys/unix/impls.rs /home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/unix.rs
+
+/home/colonello/Documents/rust.projects/SnakeGame/target/debug/deps/net2-73ccd827ac5c2a55.d: /home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/lib.rs /home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/tcp.rs /home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/udp.rs /home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/socket.rs /home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/ext.rs /home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/utils.rs /home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/sys/unix/mod.rs /home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/sys/unix/impls.rs /home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/unix.rs
+
+/home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/lib.rs:
+/home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/tcp.rs:
+/home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/udp.rs:
+/home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/socket.rs:
+/home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/ext.rs:
+/home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/utils.rs:
+/home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/sys/unix/mod.rs:
+/home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/sys/unix/impls.rs:
+/home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.37/src/unix.rs:

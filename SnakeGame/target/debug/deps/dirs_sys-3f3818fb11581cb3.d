@@ -1,0 +1,6 @@
+/home/colonello/Documents/rust.projects/SnakeGame/target/debug/deps/dirs_sys-3f3818fb11581cb3.rmeta: /home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/dirs-sys-0.3.7/src/lib.rs /home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/dirs-sys-0.3.7/src/xdg_user_dirs.rs
+
+/home/colonello/Documents/rust.projects/SnakeGame/target/debug/deps/dirs_sys-3f3818fb11581cb3.d: /home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/dirs-sys-0.3.7/src/lib.rs /home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/dirs-sys-0.3.7/src/xdg_user_dirs.rs
+
+/home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/dirs-sys-0.3.7/src/lib.rs:
+/home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/dirs-sys-0.3.7/src/xdg_user_dirs.rs:

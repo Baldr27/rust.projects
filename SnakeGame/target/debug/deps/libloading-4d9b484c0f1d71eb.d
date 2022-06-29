@@ -1,0 +1,11 @@
+/home/colonello/Documents/rust.projects/SnakeGame/target/debug/deps/libloading-4d9b484c0f1d71eb.rmeta: /home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/lib.rs /home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/os/mod.rs /home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/os/unix/mod.rs /home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/os/unix/consts.rs /home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/changelog.rs /home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/util.rs /home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/error.rs
+
+/home/colonello/Documents/rust.projects/SnakeGame/target/debug/deps/libloading-4d9b484c0f1d71eb.d: /home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/lib.rs /home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/os/mod.rs /home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/os/unix/mod.rs /home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/os/unix/consts.rs /home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/changelog.rs /home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/util.rs /home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/error.rs
+
+/home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/lib.rs:
+/home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/os/mod.rs:
+/home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/os/unix/mod.rs:
+/home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/os/unix/consts.rs:
+/home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/changelog.rs:
+/home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/util.rs:
+/home/colonello/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/error.rs:
