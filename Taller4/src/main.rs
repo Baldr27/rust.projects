@@ -1,6 +1,9 @@
 fn main() {
-    s
+    //read user input
+    
 }
+
+
 
 struct Test{
 
