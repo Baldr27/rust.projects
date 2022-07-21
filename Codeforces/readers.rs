@@ -1,10 +1,6 @@
 use std::io::prelude::*;
 
-fn read_num<T>() -> T
-where
-    T: std::str::FromStr,
-    <T as std::str::FromStr>::Err: std::fmt::Debug,
-{
+fn read_input<T>() -> T where T: std::str::FromStr, <T as std::str::FromStr>::Err: std::fmt::Debug, {
     std::io::stdin()
         .lock()
         .lines()
@@ -15,11 +11,7 @@ where
         .unwrap()
 }
 
-fn read_vec<T>() -> Vec<T>
-where
-    T: std::str::FromStr,
-    <T as std::str::FromStr>::Err: std::fmt::Debug,
-{
+fn read_vec<T>() -> Vec<T> where T: std::str::FromStr, <T as std::str::FromStr>::Err: std::fmt::Debug, {
     std::io::stdin()
         .lock()
         .lines()
