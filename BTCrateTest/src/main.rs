@@ -1,3 +1,4 @@
+#![allow(non_snake_case)]
 fn main() {
     //5*i*n -> minutes to complete n problems
     //needs k minutes to make it from his house

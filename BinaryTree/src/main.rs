@@ -1,3 +1,5 @@
+#![allow(non_snake_case)]
+
 type ChildNode<T> = Option<Box<BTNode<T>>>;
 
 struct BTNode<T>{
